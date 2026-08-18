@@ -1,7 +1,7 @@
 {
   "name": "Trackline",
   "short_name": "Trackline",
-  "description": "Middle-distance training, recovery and performance",
+  "description": "Middle-distance training, Garmin context, recovery and performance",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
